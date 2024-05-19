@@ -12,7 +12,7 @@
         $age = 'Age: 20 years old';
         $address = 'Address: Santa Monica San Simon Pampanga';
         $hobbies = 'Hobbies: Editing, Photography, Movies, Scroll sa TIKTOK';
-        $pet_peeve = 'Pet Peeve: Being Late, Loud Phone Games ';
+        $pet_peeve = 'Pet Peeve: Being Late, Loud Phones Games ';
 
         echo $name, '<br>'; 
         echo $age, '<br>'; 
@@ -31,7 +31,7 @@
         define('AGE','20 years old');
         define('ADDRESS','Santa Monica San Simon Pampanga');
         define('HOBBIES','Editing, Photography, Movies, Scroll sa TIKTOK');
-        define('PET_PEEVE','Being Late, Loud Phone Games');
+        define('PET_PEEVE','Being Late, Loud Phones');
 
         echo NAME, '<br>';
         echo AGE, '<br>';
